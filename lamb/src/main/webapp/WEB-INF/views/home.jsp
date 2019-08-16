@@ -14,5 +14,7 @@
 		<a href="/board/list">게시물 목록</a><br/>
 		<a href="/board/listPage?num=1">게시물 목록 - 페이지1</a><br/>
 	</p>
+
+<!-- 내용추가 -->
 </body>
 </html>
